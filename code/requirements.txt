@@ -1,0 +1,13 @@
+# Required dependencies for the Domain Enumerator project
+# Currently, the tool only uses Python's standard library.
+# Future enhancements may require external libraries.
+
+# Uncomment and install the following if additional functionality is added:
+# dnspython==2.3.0  # For more advanced DNS lookups
+# requests==2.31.0  # If making API requests in the future
+# tqdm==4.66.1      # For progress bars if needed
+
+To install future dependencies, run:
+```
+pip install -r requirements.txt
+```
